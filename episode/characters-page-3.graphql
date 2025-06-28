@@ -1,0 +1,9 @@
+query {
+  character(page: 3) {
+    results {  
+      id  
+      name  
+      status  
+      image  
+    }  
+}
