@@ -1,0 +1,14 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "1",
+          "name": "Rick Sanchez",
+          "status": "Alive",
+          "image": "https://example.com/image1.png"
+        }
+      ]
+    }
+  }
+}

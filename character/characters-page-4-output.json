@@ -1,0 +1,31 @@
+{
+    "data": {
+      "characters": {
+        "results": [
+          {
+            "id": "1",
+            "name": "Rick Sanchez",
+            "status": "Alive",
+            "image": "https://example.com/image1.png"
+          },
+          {
+            "id": "2",
+            "name": "Morty Smith",
+            "status": "Alive",
+            "image": "https://example.com/image2.png"
+          },{
+            "id": "3",
+            "name": "Summer Smith",
+            "status": "Alive",
+            "image": "https://example.com/image3.png"
+          },
+          {
+          "id": "4",
+          "name": "Beth Smith",
+          "status": "Alive",
+          "image": "https://example.com/image4.png"
+        }
+      ]
+    }
+  }
+  }
